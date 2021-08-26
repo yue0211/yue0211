@@ -1,5 +1,7 @@
 ### Hi there 👋 , I'm yue
 
+![gif](https://www.google.com/url?sa=i&url=http%3A%2F%2Flilimetooyou.pixnet.net%2Falbum%2Fphoto%2F331499051&psig=AOvVaw3JeJe0fjrQiWd8Gl_2HVJT&ust=1630061197546000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCKDzwqjBzvICFQAAAAAdAAAAABAk)
+
 <!--
 **yue0211/yue0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
