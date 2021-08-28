@@ -1,6 +1,5 @@
 ### Hi there 👋 , I'm yue
 
-![image](https://github.com/yue0211/yue0211/blob/main/LineBear.gif)
 
 <!--
 **yue0211/yue0211** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
